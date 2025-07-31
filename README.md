@@ -1,4 +1,4 @@
-# *Pratama Nusantara Dairy* - Sales Performance Analysis (Nov 2024 - Feb 2025)
+# *Pratama Nusantara Dairy* - Regional Sales Performance Analysis (Nov 2024 - Feb 2025)
 
 ## Project Background
 ### Company Info
@@ -89,11 +89,11 @@ Pratama Nusantara Dairy is a fictional company. This dataset inspired from real-
 #### Salesman Customer Segmentation
 
 | salesman_id | customer_category_served                                                                                                           |
-|-------------|------------------------------------------------------------------------------------------------------------------------------------|
-| `SM03353`     | Minimarket, Supermarket                                                                                                           |
-| `SM03376`     | Minimarket, Supermarket                                                                                                            |
-| `SM03378`     | Second Dealer                                                                                                                      |
-| `SM03385`     | Second Dealer                                                                                                                      |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------|
+| `SM03353`     | Minimarket, Supermarket                                                                                                          |
+| `SM03376`     | Minimarket, Supermarket                                                                                                          |
+| `SM03378`     | Second Dealer                                                                                                                    |
+| `SM03385`     | Second Dealer                                                                                                                    |
 | `SM03344`     | Bakery, Beverage Stall, Cafe, Canteen, Company, Food Supplier, Hotel & Leisure, Restaurant                                         |
 | `SM03322`     | Healthcare Institution, Internal Selling, Market Retail, Minimarket, Residential Retail, Second Dealer                             |
 | `SM03361`     | Minimarket, Residential Retail, Second Dealer                                                                                      |
